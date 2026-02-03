@@ -10,3 +10,10 @@
    - IoMT devices: real-time data for personalized treatment.
    
    Blockchain is presented as a way to make patient records more secure and trustworthy to share. The main takeaway is that providers who invest in custom, compliant, interoperable software can improve outcomes and efficiency, but they still need to manage challenges like regulation, cybersecurity, integration with existing systems, and upfront costs.
+
+---
+
+
+# Comments from Mumu Li
+
+I didn't previously know that AI is being used for pattern detection in X-rays/MRIs. That's really shocking to me! That software is transitioning from a record-keeping tool to an active driver of patient care is really interesting to me. Your points on AI and IoMT align perfectly with the text, particularly the emphasis on moving care outside the clinic via remote monitoring. It might be worth noting the article’s mention of the sheer scale of this shift—specifically that the IoMT market is expected to surpass $254 billion—to underline why security solutions like Blockchain are becoming non-negotiable.
